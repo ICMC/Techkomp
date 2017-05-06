@@ -15,8 +15,10 @@ It is an Intergreded Development Enviroment (IDE). It is an in browser access to
 
 1. login into your account
 2. bash console 
-4. `cd project`
-3. Activate Virtualenv: `$ source myvenv/bin/activate`
+3. `cd project`
+4. Activate Virtualenv: `$ source myvenv/bin/activate`
+5. `python manage.py runserver`
+
 
 ### Django 
 Back-end webframework that follows the model-view-template architectural pattern
