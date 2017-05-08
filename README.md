@@ -21,7 +21,7 @@ It is an Intergreded Development Enviroment (IDE). It is an in browser access to
 
 * windows:
 1. cmd 
-2. project/django/myenv/Script/activate.bat
+2. `$ project/django/myenv/Script/activate.bat`
 3. virtual enviroment is active 
 
 
