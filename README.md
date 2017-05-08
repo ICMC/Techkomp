@@ -19,6 +19,11 @@ It is an Intergreded Development Enviroment (IDE). It is an in browser access to
 4. Activate Virtualenv: `$ source myvenv/bin/activate`
 5. `python manage.py runserver`
 
+* windows:
+1. cmd 
+2. project/django/myenv/Script/activate.bat
+3. virtual enviroment is active 
+
 
 ### Django 
 Back-end webframework that follows the model-view-template architectural pattern
