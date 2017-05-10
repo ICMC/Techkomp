@@ -13,6 +13,13 @@ p {
   font-family: 'Dancing Script', cursive;
   font-size: 200%;
 }
+
+button{
+   float:center;
+}
+
+
+
 h1 {
     margin:auto;
     text-align: center;
