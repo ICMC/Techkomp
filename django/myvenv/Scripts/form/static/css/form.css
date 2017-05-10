@@ -1,0 +1,24 @@
+body {
+    background-color: LightGrey;
+}
+img {
+  margin:auto;
+  width: 30%;
+  display: block;
+}
+p {
+  text-align: center;
+  /*font-family: 'Indie Flower', cursive;*/
+  /*font-family: 'Love Ya Like A Sister', cursive;*/
+  font-family: 'Dancing Script', cursive;
+  font-size: 200%;
+}
+h1 {
+    margin:auto;
+    text-align: center;
+    color: black;
+    font-family: 'Lobster';
+}
+#binary {
+  background-color: black;
+}
