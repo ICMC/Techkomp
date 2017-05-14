@@ -9,7 +9,8 @@ class Candidate(models.Model):
     text       = models.TextField(blank=False)
     impact     = models.TextField(blank=False)
     github     = models.URLField()
-    email      = models.EmailField(max_length=100)
+    email      = models.EmailField(max_length=100, primary_key=True)
+
     SPONSORSHIP = (
         ('50','50%'),
         ('75','75%'),
